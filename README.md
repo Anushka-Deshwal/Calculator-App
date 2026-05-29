@@ -39,7 +39,7 @@ calculator/
 --------------------------------------------------------------
 
 ## 🔗 Live Demo
-https://Anushka-Deshwal.github.io/Calculator-App/
+https://github.com/Anushka-Deshwal/Calculator-App.git
 
 
 --------------------------------------------------------------
