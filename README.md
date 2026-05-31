@@ -1,11 +1,11 @@
-# 🧮 Simple Calculator
+ ## Simple Calculator
 
 A simple calculator web application built using **HTML, CSS, and JavaScript**.  
 It performs basic arithmetic operations like addition, subtraction, multiplication, and division.
 
 ---------------------------------------------------------
 
-## 🗄️ Features
+ ## Features
 - Basic arithmetic operations (+, -, *, /)
 - Clear button (C)
 - Delete last entry (DEL)
@@ -14,22 +14,23 @@ It performs basic arithmetic operations like addition, subtraction, multiplicati
 
 -------------------------------------------------------------
 
-## 🗃️ Technologies Used
+ ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
 ---------------------------------------------------------------
-
-## 📂 Project Structure
+## Project Structure
 calculator/
+
 │── index.html
 │── style.css
 │── script.js
 
 -------------------------------------------------------------
 
-## ✨ How It Works
+##  How It Works
+
 - User clicks buttons to enter numbers and operators
 - Input is displayed on screen
 - `=` button evaluates the expression
@@ -38,19 +39,18 @@ calculator/
 
 --------------------------------------------------------------
 
-## 🔗 Live Demo
+##  Live Demo
  https://anushka-deshwal.github.io/Calculator-App/
 
 
 --------------------------------------------------------------
 
-## 👨‍💻 Author
-- Anushka Deshwal
-- Beginner Web Developer 💻
+##  Author
+Anushka Deshwal
 
 ------------------------------------------------------------
 
-## 📌 Future Improvements
+##  Future Improvements
 - Add keyboard support
 - Improve UI design
 - Add scientific calculator features
